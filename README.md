@@ -1,5 +1,3 @@
-# Paintify (Python, no OpenCV)
-
 Painterly image filter using only Pillow and NumPy. Converts JPEG/PNG into a brushy, posterized painting with optional stroke overlay.
 
 ## Quick start
